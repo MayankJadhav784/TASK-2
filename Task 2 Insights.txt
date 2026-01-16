@@ -1,0 +1,14 @@
+1. Electronics dominate overall revenue :
+Electronics contribute approximately 77% of total revenue, making them the primary driver of sales performance across all categories.
+
+2. Customer engagement is highest in Electronics :
+With over 88% of total reviews, the Electronics category shows the strongest customer interaction and feedback volume.
+
+3. Office Supplies lead in customer satisfaction :
+Despite contributing less than 1% of revenue, Office Supplies achieve the highest average rating (4.29), indicating strong customer satisfaction.
+
+4. Home Appliances show balanced performance :
+Home Appliances maintain a moderate share of revenue and reviews, with an average rating of 4.04, suggesting consistent quality and engagement.
+
+5. Other category underperforms across metrics :
+The “Other” category ranks lowest in revenue, reviews, and average rating, highlighting potential areas for improvement or reevaluation.
